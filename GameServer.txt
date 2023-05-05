@@ -1,0 +1,10 @@
+[server]x1/t/Server.txt[/server]
+
+[notify][17/04]Fix 1 số lỗi ở bản v2.3.0, lên kênh Hùng Hero tải lại phiên bản nào.
+;
+Hướng dẫn thay IP server phiên bản jar tại kênh Hùng Hero.
+;
+Chúc bạn chơi game vui vẻ!
+;
+Liên hệ hỗ trợ, báo lỗi: https://www.facebook.com/HungHero.Online
+;[/notify]
